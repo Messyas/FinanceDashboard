@@ -42,7 +42,7 @@ import FlexBetween from "@/components/FlexBetween";
                 textDecoration: "inherit"
             }}
             >
-            dashboard
+            predictions
             </Link>
         </Box>
      </FlexBetween>
