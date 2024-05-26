@@ -20,3 +20,4 @@ app.use(cors())
 console.log('hello')
 
 /* Mongoose setup*/
+/* banco de dados */
